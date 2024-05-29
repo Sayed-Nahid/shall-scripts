@@ -1,2 +1,2 @@
 # shell-scripts
-scripts for making life little bit easier
+for executing the script you have to go in directory and than write ./dl.sh and hit enter.
